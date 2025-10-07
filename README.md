@@ -1,3 +1,5 @@
 # pole-dance-factory-bytom
 
-Website available at: https://poledancefactorybytom.pl/
+Static HTML, CSS and JavaScript website integrated with external booking service. Hosted on Netlify.
+
+Available at: https://poledancefactorybytom.pl/
